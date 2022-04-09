@@ -1,4 +1,4 @@
-# Actuarial Theory and Practice A
+# 2022 Student Research Case Study Challenge: Football/Soccer
 
 _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 

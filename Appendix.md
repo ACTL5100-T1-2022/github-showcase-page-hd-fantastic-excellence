@@ -1,6 +1,18 @@
 # Appendix
 ---
+- [Appendix](#appendix)
+  * [Appendix A - Team formation and techniques](#appendix-a---team-formation-and-techniques)
+  * [Appendix B - Discussion of R results from team selection criteria](#appendix-b---discussion-of-r-results-from-team-selection-criteria)
+  * [Appendix C. Methodology for modeling forecast future revenue and expense](#appendix-c-methodology-for-modeling-forecast-future-revenue-and-expense)
+  * [Appendix D - Discussion of R results from Economy Analysis](#appendix-d---discussion-of-r-results-from-economy-analysis)
+    + [Revenue And Expense](#revenue-and-expense)
+  * [Appendix E - Ethical considerations](#appendix-e---ethical-considerations)
+  * [Appendix F - General suggestions](#appendix-f---general-suggestions)
+  * [Appendix G - Rcode and Team Selection](#appendix-g---rcode-and-team-selection)
+  * [Appendix H - Economic Impact](#appendix-h---economic-impact)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
+---
 ## Appendix A - Team formation and techniques
 
 Inspired by the Brazil soccer team, our team consists of 24 players including 3 goalkeepers, 8 defenders, 5 midfielders and 8 forwards. The 11 starting line-ups consist of 4 forwards, 3 midfielders, 3 defenders, 1 goalkeeper. This team structure is also known as the 4-3-3 formation. The remaining 3 to 5 players will be included in the substitutes. Studies have shown that in the 4-3-3 formation, having three forward players in the attack form a good shape to press high up the pitch. The three midfielders, with the aim to block off any switch of play, can focus on the central areas before pressing outwards to force the ball wide (Tweedale, 2022). There are many famous teams that use this 4-3-3 formation, including Pep Guardiola’s Barcelona, Jürgen Klopp’s Liverpool, and Maurizio Sarri’s Napoli.

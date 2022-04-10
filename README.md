@@ -29,6 +29,7 @@ Appendix G - R Code for Team Selection	15
 Appendix H - Economic Impact	30
 9.	Reference	34
 
+---
   
 # Summary
 This report applies generalized linear model regression and Monte Carlo simulation to the team selection process and the national economic impact analysis. Risk analysis such as risk metrics and implementation plans associated with real world teams such as researching Australian Football are important for Rarita. 24 players are selected for the national team and the team has a high probability to be ranked in top three within five years.

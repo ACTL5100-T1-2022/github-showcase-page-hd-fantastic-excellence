@@ -47,53 +47,70 @@ Appendix H - Economic Impact	30
   
 # Summary
 This report applies generalized linear model regression and Monte Carlo simulation to the team selection process and the national economic impact analysis. Risk analysis such as risk metrics and implementation plans associated with real world teams such as researching Australian Football are important for Rarita. 24 players are selected for the national team and the team has a high probability to be ranked in top three within five years.
+
 1.	Objectives of Analysis
 This report is conducted to propose a competitive national team and analyze the impact of constructing a national team to the Rarita economy. Players in the team are selected with highest probability in order to achieve the purpose of ranking in the FSA top 10 members within the next five years and achieving the FSA championship within the next 10 years. Direct and indirect revenues and expenses from constructing such a team is discussed in detail, followed by prediction of the influence in the economy in the next 10 years. Potential risk and mitigation is provided for both quantitative and qualitative factors. Data limitations are also discussed with suggestions for future improvement.
 
 # 2.	Team Selection
 We focus on the data from the player-data.xlsx file to construct the most competitive team. The team selection criteria will be based on both their performance and annual salary.
+
 One important purpose for constructing a national team is to promote the economy in Rarita. As a symbol for the country, the national team signifies the spirit of sport that represents this country. So, most soccer leagues require that the majority players of a national team should be from that nation. We expect the team to include few best forward players and defenders worldwide. Inspired by the Brazil soccer team, our team consists of around 24 players including 3 goalkeepers, 8 defenders, 5 midfielders and 8 forwards. May include some free players in multi-positions. Formation and techniques are discussed in the appendix.
+
 Our team selection is done position-by-position. For each position, we only consider players that have experience in that position. It is too risky that we place a player in a position he/she never played. We tend to select the top-performing players from each position, but also take into consideration that player’s nationality, wage, and age. Nationality is explained above that Rarita players are our top priorities in each position. Wage of a player is calculated as a weighted average of both 2020 and 2021 wage, with inflation taken into account. This helps us to be cost-effective with our budget.
+
 The selection criteria is shown below in figure 2.1. Two generally important factors for selecting players are experience and durability. This is also proven as significant factors by Carling in his studies on professional teams (Carling, 2011). Majority of the criteria for forward players are also important to midfielders, except midfielders have more significant variables. This is because midfielders are expected to come back and forth on the field by both attacking with forwards and defending with defenders. For defenders, along with the defending abilities, shooting abilities also seem to be important and significant. Although defenders usually stay in the defending 1/3 and would not leave their defending positions to shoot goals. However, as goal shooting ability is highly correlated with passing abilities, it explains why both goal shooting and passing abilities are important for defenders. Lastly, the three important variables for goalkeepers are all related to the players goalkeeping abilities. More detailed discussion of model results can be found in the appendix.
-<div align=center><div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%202.1%EF%BC%9A%20Significant%20Factors%20for%20FW%2CMF%2CDF%2CGK.jpg"/></div>
- 
-Figure 2.1: Significant Factors for Forward, Midfielder, Defender, Gatekeeper
+
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%202.1%EF%BC%9A%20Significant%20Factors%20for%20FW%2CMF%2CDF%2CGK.jpg"/>
+
+Figure 2.1: Significant Factors for Forward, Midfielder, Defender, Gatekeeper </div>
+
 The probability of success is measured by the 2020 and 2021 tournament statistics. Our analysis finds that shooting and passing abilities, total distance ran, pressure given to the opponent team, and ability to prevent the opponent from scoring a goal, are all important factors to determine the tournament result for those professional players. There are strong relationships between the tournament and league statistics for most variables. Hence, we predict the actual tournament performance of our proposed national team and compare the statistics with other national teams. Our model shows that this national team has the abilities between third place and second place in the 2021 tournament data, both individually and as a whole team.
+
 Direct revenues from having this competitive team are the sponsorship, broadcast licensing and match tickets (United States Soccer Federation, Inc., 2021). There are 17 million subscribers in Rarita’s football-soccer Facebook page. Compared with the 12 million population in Rarita, there are a huge number of enthusiastic soccer audiences in Rarita. This shows that the broadcast will attract both Rarita citizens and foreigners to watch. 
+
 The total wage of our proposed national team is ∂ 224,984,939 and we lend three most overpaid Rarita player to foreign countries for ∂ 9,020,619. Moreover, we find the total wage of Rarita players (1.6 billion) exceeds the total staff expense (1.2 billion). This indicates that around 30% of Rarita soccer players are playing and receiving wages in foreign countries. This is a good opportunity for young Rarita players to go and gain experience overseas. This includes the 39 adult Rarita players who are under 22 years old. Income from lending those players are ∂ 22,560,685. This value is taken into account of both inflation and the possibility that some players are not accepted by foreign teams. The annual net staff cost is ∂ 193,403,635
  
 # 3.	Economic Impact
 Analysis of revenue
  In order to analyze the relationship between revenue and GDP, this article use a simple linear regression and different provinces’ revenue proportion of GDP, then forecasting revenue for the next ten years. 
 According to linear regression, there is a great positive relationship between GDP and total revenue, and the estimator is significant at 95%. The second part shows different provinces’ football revenue as a share of GDP (see Figure 3.1). The West has the main influence on GDP, and the East has the least impact on GDP. In general, the share of the football industry is gradually increasing, so the future of football-related industries is expected to increase. The last part is using Monte Carlo simulation to predict total football revenue (see Figure 3.2). There is a steady increase in the next ten years, also the growth rate of the total revenue is also increasing slightly.
-<div align=center><div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%202.1%EF%BC%9A%20Significant%20Factors%20for%20FW%2CMF%2CDF%2CGK.jpg"/></div>
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.1%20LR%20revenue-gdp_model.png"/>
  
-Figure 3.1:Linear Regression Summary for GDP and Revenue
+Figure 3.1:Linear Regression Summary for GDP and Revenue </div>
 
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.2%20Revenue%20proportion.png"/>
  
-Figure 3.2: Total Revenue Accounted for GDP
+Figure 3.2: Total Revenue Accounted for GDP </div>
 
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.3%20CI%20of%20revenue.jpeg"/>
  
-Figure 3.3: The CI of Future Revenue
+Figure 3.3: The CI of Future Revenue </div>
 
 Analysis of expense
 Similar with revenue analysis, expense analysis also divides into three parts: linear regression of GDP and expense, different provinces’ expense accounted for GDP and forecasting expense for the next ten years. 
 From the results of linear regression, staff expenses have a negative impact on GDP, but other expenses will promote GDP. GDP growth and both expenses per capita show a positive correlation at least at the 95% confidence level. As with revenues, there is a similar regional imbalance in spending(Figure 3.2.1). Expenditure on the football industry has the greatest impact on the West and the least on the East. In general, there is an increasing trend on all expenses from 2018 to 2020. The forecasting of total expense, using the same methodology to revenue, shows in Figure 3.2.2. There is an increase year by year from the simulation results. The 95% confidence interval is wider with time, which means its standard deviation gradually increases over time.
 
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.4%20expense-gdp_model.png"/>
  
-Figure 3.4: Linear Regression Summary for GDP and Expense
+Figure 3.4: Linear Regression Summary for GDP and Expense </div>
 
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.5%20Expense%20Porprotion.png"/>
  
-Figure 3.5: Total Expense Accounted for GDP
+Figure 3.5: Total Expense Accounted for GDP</div>
+
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.6%20Expense.jpeg"/>
  
-Figure 3.6: The CI for Future Expense
+Figure 3.6: The CI for Future Expense </div>
  
+ 
 # 4.	Implementation Plan
 
 
 The major purpose for the national soccer team construction is to benefit the local communities in Rarita by receiving money award from the FSA championship
-and other economic benefits. The development of the national soccer team is treated as a business. Players in the team may retire in the next 10 years according to their performance. The team data collection and analysis is annual and team players replacement is bi-yearly. Therefore, the project duration has been splitted into five periods and each period includes two years. There are no actions in the first two periods since the importance of the team running. The commission collects the performance and health data of players annually in order to be consistent with the underlying goal. After that, the team selection process will be repeated bi-yearly. 
+and other economic benefits. The development of the national soccer team is treated as a business. Players in the team may retire in the next 10 years according to their performance. The team data collection and analysis is annual and team players replacement is bi-yearly. Therefore, the project duration has been splitted into five periods and each period includes two years. There are no actions in the first two periods since the importance of the team running. The commission collects the performance and health data of players annually in order to be consistent with the underlying goal. After that, the team selection process will be repeated bi-yearly.
+
 Alternatively, Rarita can establish a national soccer association and complete the domestic soccer system. The commision is able to collect the domestic players data outside the national team from the internal matches and foreign players data from international matches. 
+
 Once the national soccer association is established, Rarita can complete the internal system through hosting domestic leagues. The association revenue from the leagues includes the gate receipts at matchdays, commercial revenues and broadcasts.  
 
 Additionally, the complete soccer league system also benefits the national economy. The government is able to expand revenue resources such as tourism and lottery and raise the revenue amount from the soccer fields.  Moreover, the government develops the national infrastructure such as construction of soccer fields and hosts professional and amateur matches around the whole country. Once the soccer infrastructure is developed in Rarita, the Rarita government is able to make a bid to host the FSA League. The success of hosting the largest international soccer match benefits the national economy comprehensively.

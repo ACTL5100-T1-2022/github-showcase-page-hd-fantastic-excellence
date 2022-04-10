@@ -29,6 +29,33 @@ Appendix G - R Code for Team Selection	15
 Appendix H - Economic Impact	30
 9.	Reference	34
 
+
+- [2022 Student Research Case Study Challenge: Football/Soccer](#2022-student-research-case-study-challenge--football-soccer)
+  * [The University of Nsw South wales](#the-university-of-nsw-south-wales)
+  * [Group members:](#group-members-)
+- [Summary](#summary)
+- [1.    Objectives of Analysis](#1----objectives-of-analysis)
+- [2.    Team Selection](#2----team-selection)
+- [3.    Economic Impact](#3----economic-impact)
+- [4.    Implementation Plan](#4----implementation-plan)
+- [5.    Assumptions](#5----assumptions)
+- [6.    Risk and Risk Mitigation Considerations](#6----risk-and-risk-mitigation-considerations)
+  * [Quantifiable Risk](#quantifiable-risk)
+  * [Qualitative Risk](#qualitative-risk)
+  * [Sensitivity analysis](#sensitivity-analysis)
+- [7.    Data and Data Limitations](#7----data-and-data-limitations)
+- [8.    Appendix](#8----appendix)
+  * [Appendix A - Team formation and techniques](#appendix-a---team-formation-and-techniques)
+  * [Appendix B - Discussion of R results from team selection criteria](#appendix-b---discussion-of-r-results-from-team-selection-criteria)
+  * [Appendix C. Methodology for modeling forecast future revenue and expense](#appendix-c-methodology-for-modeling-forecast-future-revenue-and-expense)
+  * [Appendix D - Discussion of R results from Economy Analysis](#appendix-d---discussion-of-r-results-from-economy-analysis)
+    + [Revenue And Expense](#revenue-and-expense)
+  * [Appendix E - Ethical considerations](#appendix-e---ethical-considerations)
+  * [Appendix F - General suggestions](#appendix-f---general-suggestions)
+- [9.    Reference](#9----reference)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ---
   
 # Summary

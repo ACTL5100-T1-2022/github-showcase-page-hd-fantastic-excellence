@@ -4,6 +4,13 @@
 ## Group members:
 Hao Wang; Juncheng Chen; Linyao Zhang; Yutong Zheng
 
+<style>
+table
+{
+    margin: auto;
+}
+</style>
+
 [TOC] 
 
 Table of Content
@@ -46,10 +53,36 @@ One important purpose for constructing a national team is to promote the economy
 Our team selection is done position-by-position. For each position, we only consider players that have experience in that position. It is too risky that we place a player in a position he/she never played. We tend to select the top-performing players from each position, but also take into consideration that player’s nationality, wage, and age. Nationality is explained above that Rarita players are our top priorities in each position. Wage of a player is calculated as a weighted average of both 2020 and 2021 wage, with inflation taken into account. This helps us to be cost-effective with our budget.
 
 The selection criteria is shown below in figure 2.1. Two generally important factors for selecting players are experience and durability. This is also proven as significant factors by Carling in his studies on professional teams (Carling, 2011). Majority of the criteria for forward players are also important to midfielders, except midfielders have more significant variables. This is because midfielders are expected to come back and forth on the field by both attacking with forwards and defending with defenders. For defenders, along with the defending abilities, shooting abilities also seem to be important and significant. Although defenders usually stay in the defending 1/3 and would not leave their defending positions to shoot goals. However, as goal shooting ability is highly correlated with passing abilities, it explains why both goal shooting and passing abilities are important for defenders. Lastly, the three important variables for goalkeepers are all related to the players goalkeeping abilities. More detailed discussion of model results can be found in the appendix.
+| Forward                                      |              | Midfielder                                                       |              |
+|---------------------------------------------|--------------|------------------------------------------------------------------------|--------------|
+| Explanatory   Factors                       | Significance | Explanatory Factors                                                    | Significance |
+| Goals minus expected goals                  | ***          | Goals minus expected goals                                             | ***          |
+| Passing completion percentage               | ***          | Pass completion percentage (5 - 15 yards)                              | ***          |
+| Minutes divided by 90 minutes               | ***          | Minutes divided by 90 minutes                                          | ***          |
+| Goals                                       | ***          | Goals                                                                  | ***          |
+| possession of the ball after   pressure     | **           | Shots total                                                            | ***          |
+| pressure in defensive 1/3                   | .            | Completed passes that enter the 1/3 of the pitch closest to   the goal | 　           |
+| pressure in attacking 1/3                   | *            | Number of dribblers tackled                                            | .            |
+| 　                                          | 　           | possession of the ball after pressure                                  | ***          |
+|                                             |              | pressure in defensive 1/3                                              | **           |
+| 　                                          | 　           | pressure in middle 1/3                                                 | *            |
+| 　                                          | 　           | Clearances                                                             | ***          |
+| 　                                          | 　           | 　                                                                     | 　           |
+| Defender                                    |              | Gatekeeper                                                             |              |
+| Explanatory   Factors                       | Significance | Explanatory Factors                                                    | Significance |
+| Goals minus expected goals                  | ***          | Goal against per 90 minutes                                            | ***          |
+| Assists minus expected   assisted           | 　           | Start line-up percentage                                               | *            |
+| Pass completion percentage (5   - 15 yards) | ***          | Penaty kick saved                                                      | .            |
+| Minutes divided by 90 minutes               | ***          | 　                                                                     | 　           |
+| Goals                                       | **           |                                                                        |              |
+| Shots total                                 | ***          | Notes: Significance Level                                              | 　           |
+| Completed crosses into the   18-yard box    | *            | ***:     Greater than   99.9%                                          |              |
+| Tackles in defensive 1/3                    | ***          | **:       99%~99.9%                                                    | 　           |
+| possession of the ball after   pressure     | ***          | *:         95%~99%                                                     |              |
+| pressure in defensive 1/3                   | **           | .:          90%~95%                                                    | 　           |
+| Number of Player tackle plus   interception | ***          | blank:  less than 90%                                                  | 　           |
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%202.1%EF%BC%9A%20Significant%20Factors%20for%20FW%2CMF%2CDF%2CGK.jpg"/>
-
-Figure 2.1: Significant Factors for Forward, Midfielder, Defender, Gatekeeper </div>
+Figure 2.1: Significant Factors for Forward, Midfielder, Defender, Gatekeeper 
 
 The probability of success is measured by the 2020 and 2021 tournament statistics. Our analysis finds that shooting and passing abilities, total distance ran, pressure given to the opponent team, and ability to prevent the opponent from scoring a goal, are all important factors to determine the tournament result for those professional players. There are strong relationships between the tournament and league statistics for most variables. Hence, we predict the actual tournament performance of our proposed national team and compare the statistics with other national teams. Our model shows that this national team has the abilities between third place and second place in the 2021 tournament data, both individually and as a whole team.
 
@@ -65,11 +98,11 @@ According to linear regression, there is a great positive relationship between G
  
 Figure 3.1:Linear Regression Summary for GDP and Revenue </div>
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.2%20Revenue%20proportion.png"/>
+<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.2%20Revenue%20proportion.png"/>
  
 Figure 3.2: Total Revenue Accounted for GDP </div>
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.3%20CI%20of%20revenue.jpeg"/>
+<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.3%20CI%20of%20revenue.jpeg"/>
  
 Figure 3.3: The CI of Future Revenue </div>
 
@@ -81,11 +114,11 @@ From the results of linear regression, staff expenses have a negative impact on 
  
 Figure 3.4: Linear Regression Summary for GDP and Expense </div>
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.5%20Expense%20Porprotion.png"/>
+<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.5%20Expense%20Porprotion.png"/>
  
 Figure 3.5: Total Expense Accounted for GDP</div>
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.6%20Expense.jpeg"/>
+<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.6%20Expense.jpeg"/>
  
 Figure 3.6: The CI for Future Expense </div>
  
@@ -100,9 +133,25 @@ Alternatively, Rarita can establish a national soccer association and complete t
 
 Once the national soccer association is established, Rarita can complete the internal system through hosting domestic leagues. The association revenue from the leagues includes the gate receipts at matchdays, commercial revenues and broadcasts.  
 
+| Revenue of National Soccer Association   | Revenue of National Soccer Team            |
+|------------------------------------------|--------------------------------------------|
+| Gate Receipts                            | Association/League Revenue on Matchday     |
+| Broadcast                                | Scholarship                                |
+| Sponsor with corporates                  | Sponsor with corporates                    |
+| Government Support                       | Individual Player's commerical corporation |
+| Relavent Products Selling                | 　                                         |
+
+Figure 4.2: Revenue resource for national soccer association and team.
+
 Additionally, the complete soccer league system also benefits the national economy. The government is able to expand revenue resources such as tourism and lottery and raise the revenue amount from the soccer fields.  Moreover, the government develops the national infrastructure such as construction of soccer fields and hosts professional and amateur matches around the whole country. Once the soccer infrastructure is developed in Rarita, the Rarita government is able to make a bid to host the FSA League. The success of hosting the largest international soccer match benefits the national economy comprehensively.
 
+<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%204.3-%20Development%20cycle%20for%20Rarita.png"/>
 
+Figure 4.3: Development cycle for Rarita</div>
+
+<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%204.4-%2010%20years%20soccer%20and%20related%20industries%20development%20timeline%20(Football%20Australia%2C%202021).png"/>
+ 
+ Figure 4.4: 10 years soccer and related industries development timeline (Football Australia, 2021)</div>
 
 # 5.	Assumptions			
 The following assumptions are made when we conduct our analysis.
@@ -115,7 +164,9 @@ The following assumptions are made when we conduct our analysis.
  
 # 6.	Risk and Risk Mitigation Considerations
  
-Figure 6.1: Risk Metrics
+ <div align=center><img width = '1000' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%206.1-%20Risk%20Metrics.jpg"/>
+ 
+Figure 6.1: Risk Metrics </div>
 
 **Quantifiable Risk**
 
@@ -239,6 +290,10 @@ Since Rarita never had a national team before, we suggest the managerial team to
 Another significant issue to take into consideration is the cut-off age limit. As humans’ physical performance substantially drop-off at 29 (Dendir, 2016), peak age for soccer players is scientifically shown to be around their late 20s. Caley (2013) used minutes played in the Premier League as a proxy for performance and concluded that peak age likely occurs between the ages of 24 and 28, with attacking players likely to peak at 25-26 (Caley, 2013). Often soccer clubs have an unofficial policy that there is a cut-off age of 30 (Dendir, 2016). We respect those elderly players, but we prioritize players in their 20s unless with extraordinary performance due our duties as analysts. For those exiting the national team because of the cut-off age, we suggest relevant departments to pay compensations. On the other hand, there are players under 18 years old playing in the league. We do not accept juveniles under 18 years old to avoid legal and humane risks.
 
 ## Appendix F - General suggestions
+
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%208.1-%20National%20and%20social%20media%20population%20data.png"/>
+ 
+ Figure 8.1: National and social media population data</div>
 
 This section provides some general suggestions for the prosperity of the soccer industry in Rarita. 
 Comparing the social media data and Rarita population, followers in youth communities such as Tik Tok and Youtube are extremely smaller than other platforms. However, the facebook followers exceeds the Rarita population. Therefore, Rarita needs to develop such plans to enhance youth interest in soccer.

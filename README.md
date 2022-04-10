@@ -4,15 +4,6 @@
 ## Group members:
 Hao Wang; Juncheng Chen; Linyao Zhang; Yutong Zheng
 
-<style>
-table
-{
-    margin: auto;
-}
-</style>
-
-[TOC] 
-
 Table of Content
 Summary	1
 1.	Objectives of Analysis	1
@@ -145,7 +136,7 @@ Figure 4.2: Revenue resource for national soccer association and team.
 
 Additionally, the complete soccer league system also benefits the national economy. The government is able to expand revenue resources such as tourism and lottery and raise the revenue amount from the soccer fields.  Moreover, the government develops the national infrastructure such as construction of soccer fields and hosts professional and amateur matches around the whole country. Once the soccer infrastructure is developed in Rarita, the Rarita government is able to make a bid to host the FSA League. The success of hosting the largest international soccer match benefits the national economy comprehensively.
 
-<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%204.3-%20Development%20cycle%20for%20Rarita.png"/>
+<div align=center><img width = '800' height ='600' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%204.3-%20Development%20cycle%20for%20Rarita.png"/>
 
 Figure 4.3: Development cycle for Rarita</div>
 

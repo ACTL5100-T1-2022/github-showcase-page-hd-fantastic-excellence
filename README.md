@@ -116,6 +116,32 @@ Figure 3.6: The CI for Future Expense </div>
  
 # 4.	Implementation Plan
 
+| No. | Name           | Age | Nation           | Position |
+|-----|----------------|-----|------------------|----------|
+| 1   | C. Baluka      | 22  | Rarita           | DF       |
+| 2   | R. Namutebi    | 25  | Rarita           | DF       |
+| 3   | D. Naula       | 26  | Rarita           | DF       |
+| 4   | M. Pedersen    | 26  | Rarita           | DF       |
+| 5   | S. Fontana     | 26  | Rarita           | DF       |
+| 6   | G. Hou         | 27  | Rarita           | DF       |
+| 7   | G. Oduro       | 28  | Rarita           | DF       |
+| 8   | Y. Rabinovitch | 30  | Western Niasland | DF       |
+| 9   | K. Al-Zahrani  | 20  | Rarita           | FW       |
+| 10  | P. Martin      | 21  | Xikong           | FW       |
+| 11  | A. Tindimwebwa | 22  | Rarita           | FW       |
+| 12  | W. Martinez    | 23  | Rarita           | FW       |
+| 13  | G. Lamwaka     | 28  | Rarita           | FW       |
+| 14  | O. Nambafu     | 28  | Rarita           | FW       |
+| 15  | H. Makumbi     | 29  | Rarita           | FW       |
+| 16  | K. Adong       | 29  | Dosqaly          | FW       |
+| 17  | F. Akumu       | 22  | Rarita           | GK       |
+| 18  | F. Musa        | 25  | Rarita           | GK       |
+| 19  | M. Bahri       | 27  | Rarita           | GK       |
+| 20  | D. Makumbi     | 21  | Rarita           | MF       |
+| 21  | A. Tindimwebwa | 22  | Rarita           | MF       |
+| 22  | B. Mhamid      | 26  | Rarita           | MF       |
+| 23  | V. álvarez     | 26  | Rarita           | MF       |
+| 24  | S. Razaee      | 27  | Rarita           | MF       |
 
 The major purpose for the national soccer team construction is to benefit the local communities in Rarita by receiving money award from the FSA championship
 and other economic benefits. The development of the national soccer team is treated as a business. Players in the team may retire in the next 10 years according to their performance. The team data collection and analysis is annual and team players replacement is bi-yearly. Therefore, the project duration has been splitted into five periods and each period includes two years. There are no actions in the first two periods since the importance of the team running. The commission collects the performance and health data of players annually in order to be consistent with the underlying goal. After that, the team selection process will be repeated bi-yearly.

@@ -92,9 +92,8 @@ Analysis of revenue
 According to linear regression, there is a great positive relationship between GDP and total revenue, and the estimator is significant at 95%. The second part shows different provinces’ football revenue as a share of GDP (see Figure 3.1). The West has the main influence on GDP, and the East has the least impact on GDP. In general, the share of the football industry is gradually increasing, so the future of football-related industries is expected to increase. The last part is using Monte Carlo simulation to predict total football revenue (see Figure 3.2). There is a steady increase in the next ten years, also the growth rate of the total revenue is also increasing slightly.
 
 <div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.1%20LR%20revenue-gdp_model.png"/>
- 
- 
-Figure 3.1:Linear Regression Summary for GDP and Revenue </div>
+
+Figure 3.1:Linear Regression Summary for GDP and Revenue</div>
 
 <div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.2%20Revenue%20proportion.png"/>
  

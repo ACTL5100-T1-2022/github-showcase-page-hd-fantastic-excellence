@@ -29,7 +29,7 @@
   * [Appendix F - General suggestions](#appendix-f---general-suggestions)
 - [9.    Reference](#9----reference)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'></a></i></small>
 
 ---
   

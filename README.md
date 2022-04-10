@@ -320,6 +320,14 @@ Another significant issue to take into consideration is the cut-off age limit. A
 This section provides some general suggestions for the prosperity of the soccer industry in Rarita. 
 Comparing the social media data and Rarita population, followers in youth communities such as Tik Tok and Youtube are extremely smaller than other platforms. However, the facebook followers exceeds the Rarita population. Therefore, Rarita needs to develop such plans to enhance youth interest in soccer.
 
+## Appendix G - Rcode and Team Selection
+
+The process of Team selection can be found in the R file ---- [Team_selection.R](https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Team%20selection.R)
+
+## Appendix H - Economic Impact
+
+PLease see the file to see the file ---- [Economic impact.R](https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Economic%20Impact.R)
+
 # 9.	Reference
 
 “2022 Student Research Case Study Challenge.” SOA, https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/

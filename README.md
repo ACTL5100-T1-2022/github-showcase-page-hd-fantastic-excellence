@@ -2,37 +2,12 @@
 
 ## The University of Nsw South wales
 ## Group members:
-Hao Wang; Juncheng Chen; Linyao Zhang; Yutong Zheng
+**Hao Wang; Juncheng Chen; Linyao Zhang; Yutong Zheng**
 
-Table of Content
-Summary	1
-1.	Objectives of Analysis	1
-2.	Team Selection	1
-3.	Economic Impact	3
-Analysis of revenue	3
-Analysis of expense	4
-4.	Implementation Plan	7
-5.	Assumptions	9
-6.	Risk and Risk Mitigation Considerations	10
-Quantifiable Risk	10
-Qualitative Risk	11
-Sensitivity analysis	11
-7.	Data and Data Limitations	12
-8.	Appendix	12
-Appendix A - Team formation and techniques	12
-Appendix B - Discussion of R results from team selection criteria	12
-Appendix C. Methodology for modeling forecast future revenue and expense	13
-Appendix D - Discussion of R results from Economy Analysis	14
-Appendix E - Ethical considerations	14
-Appendix F - General suggestions	15
-Appendix G - R Code for Team Selection	15
-Appendix H - Economic Impact	30
-9.	Reference	34
+---
 
-
+---
 - [2022 Student Research Case Study Challenge: Football/Soccer](#2022-student-research-case-study-challenge--football-soccer)
-  * [The University of Nsw South wales](#the-university-of-nsw-south-wales)
-  * [Group members:](#group-members-)
 - [Summary](#summary)
 - [1.    Objectives of Analysis](#1----objectives-of-analysis)
 - [2.    Team Selection](#2----team-selection)

@@ -159,7 +159,7 @@ The following assumptions are made when we conduct our analysis.
  
 Figure 6.1: Risk Metrics </div>
 
-**Quantifiable Risk**
+## Quantifiable Risk
 
 a.	Data and Model Risk
 
@@ -179,9 +179,9 @@ d.	Players’ injury risk.
 
 Player’s injury affects the whole team including the strategy and performance. Players may get injured in training such as unprepared equipment hurts players and competition. 
 
-Mitigation: Firstly, we ensure that safe playing fields are provided and that they are inspected prior to all training and matches. Also, the equipment should be checked regularly.
+**Mitigation**: Firstly, we ensure that safe playing fields are provided and that they are inspected prior to all training and matches. Also, the equipment should be checked regularly.
 
-**Financial risk is the risk involving the assets of a football team or the risk that may be encountered in the course of business activities. **
+**Financial risk is the risk involving the assets of a football team or the risk that may be encountered in the course of business activities.**
 
 e.	The risk of losing a sponsor
 
@@ -191,13 +191,12 @@ f.	Making a loss on events
 
 The football team currently has no ongoing financial resources, so it will affect the normal functioning of the team if a huge loss occurs. Meanwhile, without continued state funding, there is even the possibility of the football team going bankrupt.
 
-Mitigation: The first step is to form a professional finance team to manage the flow of funds. Also, improve the oversight of the football system. Finally expand the dimension of funding sources.
+**Mitigation**: The first step is to form a professional finance team to manage the flow of funds. Also, improve the oversight of the football system. Finally expand the dimension of funding sources.
 
-Qualitative Risk
+## Qualitative Risk 
 
-**Legal risks refer to breaches of the responsibilities imposed on the team by law. This may include non-compliance with child protection legislation.
-** 
-
+**Legal risks refer to breaches of the responsibilities imposed on the team by law. This may include non-compliance with child protection legislation.**
+ 
 g.	Not complying with child protection legislation
 
 There are some 14-year-old players playing in the adult games, which means they may get injured in physical defense against adults. The corresponding legal protection and assistance is inadequate. The national team may be criticized (Brackenridge et al., 2020).
@@ -210,9 +209,9 @@ i.	Doping
 
 Use of illegal drugs of players led to banning of the team and also resulted in the team's reputation being tarnished (Reardon & Creado, 2014).
 
-Mitigation: First, legal advisors are brought in to guide the social behavior of the team. Then, improve the rules of the game to protect the safety of the players. For minors, youth leagues can be formed to facilitate the display of their talents.
+**Mitigation**: First, legal advisors are brought in to guide the social behavior of the team. Then, improve the rules of the game to protect the safety of the players. For minors, youth leagues can be formed to facilitate the display of their talents.
 
-Ethical risk refers to actual or potential damage to the reputation or confidence of the country team.
+**Ethical risk refers to actual or potential damage to the reputation or confidence of the country team.**
 
 j.	Not having a member protection policy
 
@@ -222,9 +221,9 @@ k.	Players' personal behavioral issues
 
 Players may have personal behavior problems such as excessive drinking, drugs, which can affect their performance on the field and the length of their careers. For the team, the attention paid to the team will also be greatly reduced and, accordingly, the team's income will be reduced.
 
-Mitigation: The first step is to put in place a proper system to strictly regulate the behavior of players and then issue severe penalties to punish players for infractions.
+**Mitigation**: The first step is to put in place a proper system to strictly regulate the behavior of players and then issue severe penalties to punish players for infractions.
 
-**Sensitivity analysis**
+## Sensitivity analysis
 
 The historical data from the last 10 years of the survey and the severity of the problem show that doping and players' personal behaviour (e.g. alcohol, drugs, disorderly private life) have a significant impact on the performance and reputation of teams. Meanwhile, these two have a relatively high probability of occurring. Team performance, on the other hand, is less sensitive to the loss of sponsors. 
 

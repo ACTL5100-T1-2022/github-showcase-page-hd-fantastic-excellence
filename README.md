@@ -88,7 +88,11 @@ According to linear regression, there is a great positive relationship between G
 
 Figure 3.1:Linear Regression Summary for GDP and Revenue</div>
 
-![alt text](https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/ACC.png)
+<figure align="center">
+
+  <img src="" alt="Football" width="100%">
+
+</figure>
 
 <div align=center><img width = "800" height ="400" src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.2%20Revenue%20proportion.png"/>
  

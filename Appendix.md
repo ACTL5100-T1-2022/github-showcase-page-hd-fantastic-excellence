@@ -57,9 +57,17 @@ Another significant issue to take into consideration is the cut-off age limit. A
 
 ## Appendix F - General suggestions
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%208.1-%20National%20and%20social%20media%20population%20data.png"/>
+<picture align="center">
+
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-8.1-National-and-social-media-population-data.png" alt="Football" width="100%">
+
+</picture>
+
+<div align=center>
  
- Figure 8.1: National and social media population data</div>
+ Figure 8.1: National and social media population data
+
+</div>
 
 This section provides some general suggestions for the prosperity of the soccer industry in Rarita. 
 Comparing the social media data and Rarita population, followers in youth communities such as Tik Tok and Youtube are extremely smaller than other platforms. However, the facebook followers exceeds the Rarita population. Therefore, Rarita needs to develop such plans to enhance youth interest in soccer.

@@ -94,6 +94,8 @@ Figure 3.1:Linear Regression Summary for GDP and Revenue</div>
 
 </figure>
 
+[[https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/ACC.png|alt=octocat]]
+
 <div align=center><img width = "800" height ="400" src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.2%20Revenue%20proportion.png"/>
  
 Figure 3.2: Total Revenue Accounted for GDP </div>

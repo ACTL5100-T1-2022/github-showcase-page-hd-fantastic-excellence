@@ -108,7 +108,7 @@ Analysis of expense
 Similar with revenue analysis, expense analysis also divides into three parts: linear regression of GDP and expense, different provinces’ expense accounted for GDP and forecasting expense for the next ten years. 
 From the results of linear regression, staff expenses have a negative impact on GDP, but other expenses will promote GDP. GDP growth and both expenses per capita show a positive correlation at least at the 95% confidence level. As with revenues, there is a similar regional imbalance in spending(Figure 3.2.1). Expenditure on the football industry has the greatest impact on the West and the least on the East. In general, there is an increasing trend on all expenses from 2018 to 2020. The forecasting of total expense, using the same methodology to revenue, shows in Figure 3.2.2. There is an increase year by year from the simulation results. The 95% confidence interval is wider with time, which means its standard deviation gradually increases over time.
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.4%20expense-gdp_model.png"/>
+<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/cfcbc5ab3698853e745da024ba65dae85842f255/Figure%203.1%20LR%20revenue-gdp_model.png"/>
  
 Figure 3.4: Linear Regression Summary for GDP and Expense </div>
 

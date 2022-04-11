@@ -28,11 +28,11 @@
   
 
 
-<div align="center">
+<picture align="center">
 
   <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/ACC.png" alt="Football" width="100%">
 
-</div>
+</picture>
 
 # Summary
 This report applies generalized linear model regression and Monte Carlo simulation to the team selection process and the national economic impact analysis. Risk analysis such as risk metrics and implementation plans associated with real world teams such as researching Australian Football are important for Rarita. 24 players are selected for the national team and the team has a high probability to be ranked in top three within five years.

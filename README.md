@@ -1,6 +1,6 @@
 # 2022 Student Research Case Study Challenge: Football/Soccer
 
-## The University of Nsw South wales
+## The University of New South wales
 ## Group members:
 **Hao Wang; Juncheng Chen; Linyao Zhang; Yutong Zheng**
 
@@ -30,7 +30,7 @@
 
 <figure align="center">
 
-  <img src="https://images.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/master/main/ACC.png?raw=true" alt="Football" width="100%">
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/master/main/ACC.png" alt="Football" width="100%">
 
 </figure>
 

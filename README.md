@@ -120,13 +120,13 @@ From the results of linear regression, staff expenses have a negative impact on 
  
 Figure 3.4: Linear Regression Summary for GDP and Expense </div>
 
-<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.5%20Expense%20Porprotion.png" />
- 
-Figure 3.5: Total Expense Accounted for GDP</div>
+<picture align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.5%20Expense%20Porprotion.png" />
+  </picture>
+Figure 3.5: Total Expense Accounted for GDP
 
-<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.6%20Expense.jpeg" />
- 
-Figure 3.6: The CI for Future Expense </div>
+<picture align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.6%20Expense.jpeg" />
+ </picture>
+Figure 3.6: The CI for Future Expense
  
  
 # 4.	Implementation Plan

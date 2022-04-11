@@ -94,7 +94,7 @@ According to linear regression, there is a great positive relationship between G
 
 <picture align="center">
 
-  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/ACC.png" alt="Football" width="100%">
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-3.1-LR-revenue-gdp-model.png" alt="Football" width="100%">
 
 </picture>
 
@@ -104,30 +104,70 @@ Figure 3.1:Linear Regression Summary for GDP and Revenue
 
 </div>
 
-<div align=center><img width = "800" height ="400" src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.2%20Revenue%20proportion.png"/>
- 
-Figure 3.2: Total Revenue Accounted for GDP </div>
+<picture align="center">
 
-<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.3%20CI%20of%20revenue.jpeg"/>
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-3.2-Revenue-proportion.png" alt="Football" width="100%">
+
+</picture>
+
+<div align=center>
  
-Figure 3.3: The CI of Future Revenue </div>
+Figure 3.2: Total Revenue Accounted for GDP 
+
+</div>
+
+<picture align="center">
+
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-3.3-CI-of-revenue.jpeg" alt="Football" width="100%">
+
+</picture>
+
+<div align=center>
+ 
+Figure 3.3: The CI of Future Revenue 
+
+</div>
 
 Analysis of expense
 Similar with revenue analysis, expense analysis also divides into three parts: linear regression of GDP and expense, different provinces’ expense accounted for GDP and forecasting expense for the next ten years. 
 From the results of linear regression, staff expenses have a negative impact on GDP, but other expenses will promote GDP. GDP growth and both expenses per capita show a positive correlation at least at the 95% confidence level. As with revenues, there is a similar regional imbalance in spending(Figure 3.2.1). Expenditure on the football industry has the greatest impact on the West and the least on the East. In general, there is an increasing trend on all expenses from 2018 to 2020. The forecasting of total expense, using the same methodology to revenue, shows in Figure 3.2.2. There is an increase year by year from the simulation results. The 95% confidence interval is wider with time, which means its standard deviation gradually increases over time.
 
-<div align=center><img width = '600' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/cfcbc5ab3698853e745da024ba65dae85842f255/Figure%203.1%20LR%20revenue-gdp_model.png" />
+
+<picture align="center">
+
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-3.4-expense-gdp-model.png" alt="Football" width="100%">
+
+</picture>
+
+<div align=center>
  
-Figure 3.4: Linear Regression Summary for GDP and Expense </div>
+Figure 3.4: Linear Regression Summary for GDP and Expense 
 
-<picture align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.5%20Expense%20Porprotion.png" />
-  </picture>
-Figure 3.5: Total Expense Accounted for GDP
+</div>
 
-<picture align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%203.6%20Expense.jpeg" />
- </picture>
-Figure 3.6: The CI for Future Expense
+<picture align="center">
+
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-3.5-Expense-Porprotion.png" alt="Football" width="100%">
+
+</picture>
+
+<div>
+ 
+ Figure 3.5: Total Expense Accounted for GDP
+ 
+</div> 
+
+<picture align="center">
+
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-3.6-Expense.jpeg" alt="Football" width="100%">
+
+</picture>
+
+<div>
+ 
+ Figure 3.6: The CI for Future Expense
  
+</div> 
  
 # 4.	Implementation Plan
 
@@ -177,13 +217,30 @@ Figure 4.2: Revenue resource for national soccer association and team.
 
 Additionally, the complete soccer league system also benefits the national economy. The government is able to expand revenue resources such as tourism and lottery and raise the revenue amount from the soccer fields.  Moreover, the government develops the national infrastructure such as construction of soccer fields and hosts professional and amateur matches around the whole country. Once the soccer infrastructure is developed in Rarita, the Rarita government is able to make a bid to host the FSA League. The success of hosting the largest international soccer match benefits the national economy comprehensively.
 
-<div align=center><img width = '800' height ='600' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%204.3-%20Development%20cycle%20for%20Rarita.png"/>
+<picture align="center">
 
-Figure 4.3: Development cycle for Rarita</div>
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-4.3-Development-cycle-for-Rarita.png
+" alt="Football" width="100%">
 
-<div align=center><img width = '800' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%204.4-%2010%20years%20soccer%20and%20related%20industries%20development%20timeline%20(Football%20Australia%2C%202021).png"/>
+</picture>
+
+<div align=center>
+
+ Figure 4.3: Development cycle for Rarita
+
+</div>
+
+<picture align="center">
+
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-4.4-10-years-soccer-and-related-industries-development-timeline-Football-Australia-2021.png" alt="Football" width="100%">
+
+</picture>
+
+<div align=center>
  
- Figure 4.4: 10 years soccer and related industries development timeline (Football Australia, 2021)</div>
+ Figure 4.4: 10 years soccer and related industries development timeline (Football Australia, 2021)
+
+</div>
 
 # 5.	Assumptions			
 The following assumptions are made when we conduct our analysis.
@@ -196,9 +253,17 @@ The following assumptions are made when we conduct our analysis.
  
 # 6.	Risk and Risk Mitigation Considerations
  
- <div align=center><img width = '1000' height ='400' src ="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/main/Figure%206.1-%20Risk%20Metrics.jpg"/>
+ <picture align="center">
+
+  <img src="https://raw.githubusercontent.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/main/Figure-6.1-Risk-Metrics.jpeg" alt="Football" width="100%">
+
+</picture>
+
+<div align=center>
  
-Figure 6.1: Risk Metrics </div>
+ Figure 6.1: Risk Metrics 
+
+</div>
 
 ## Quantifiable Risk
 

@@ -90,7 +90,7 @@ Figure 3.1:Linear Regression Summary for GDP and Revenue</div>
 
 <figure align="center">
 
-  <img src="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/blob/master/main/Actuarial.gif?raw=true" alt="Football" width="100%">
+  <img src="https://github.com/ACTL5100-T1-2022/github-showcase-page-hd-fantastic-excellence/master/main/ACC.png?raw=true" alt="Football" width="100%">
 
 </figure>
 
